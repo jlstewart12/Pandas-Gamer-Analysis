@@ -1,8 +1,6 @@
 ![Fantasy](Images/Fantasy.png)
 
-This repository contains an analysis report built from Pandas of a fantasy game called Heroes of Pymoli.
-
-The report contains the the following metrics:
+This repository contains a Pandas analysis report of various metrics for a fantasy game called Heroes of Pymoli.
 
 ### Player Count
 
