@@ -49,7 +49,7 @@ The report contains the the following metrics:
 
 ### Top Spenders
 
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+* Top 5 spenders in the game by total purchase value:
   * SN
   * Purchase Count
   * Average Purchase Price
@@ -59,7 +59,7 @@ The report contains the the following metrics:
 
 ### Most Popular Items
 
-* Identify the 5 most popular items by purchase count, then list (in a table):
+* 5 most popular items by purchase count:
   * Item ID
   * Item Name
   * Purchase Count
@@ -70,7 +70,7 @@ The report contains the the following metrics:
 
 ### Most Profitable Items
 
-* Identify the 5 most profitable items by total purchase value, then list (in a table):
+* 5 most profitable items by total purchase value, then list (in a table):
   * Item ID
   * Item Name
   * Purchase Count
