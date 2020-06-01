@@ -7,6 +7,7 @@ The report contains the the following metrics:
 ### Player Count
 
 * Total Number of Players
+
 ![](Images/total_players.png)
 
 ### Purchasing Analysis (Total)
@@ -15,6 +16,7 @@ The report contains the the following metrics:
 * Average Purchase Price
 * Total Number of Purchases
 * Total Revenue
+
 ![](Images/purchasing_analysis.png)
 
 ### Gender Demographics
@@ -22,6 +24,7 @@ The report contains the the following metrics:
 * Percentage and Count of Male Players
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
+
 ![](Images/gender_demographics.png)
 
 ### Purchasing Analysis (Gender)
@@ -31,6 +34,7 @@ The report contains the the following metrics:
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Gender
+
 ![](Images/gender_purchases.png)
 
 ### Age Demographics
@@ -40,6 +44,7 @@ The report contains the the following metrics:
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
+
 ![](Images/purchases_by_age.png)
 
 ### Top Spenders
@@ -49,6 +54,7 @@ The report contains the the following metrics:
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
+
 ![](Images/top_spenders.png)
 
 ### Most Popular Items
@@ -59,6 +65,7 @@ The report contains the the following metrics:
   * Purchase Count
   * Item Price
   * Total Purchase Value
+
 ![](Images/most_popular_items.png)
 
 ### Most Profitable Items
@@ -69,4 +76,5 @@ The report contains the the following metrics:
   * Purchase Count
   * Item Price
   * Total Purchase Value
+
 ![](Images/most_profitable_items.png)
